@@ -1,33 +1,42 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Data Science & Machine Learning Portfolio
 
+This is my personal portfolio website built using the **[Strata template](https://html5up.net/strata)** by HTML5 UP.  
+It’s designed to showcase my work, projects, and skills in **data science, machine learning, and analytics**.  
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+🔗 **Live site:** [https://jjchen805.github.io](https://jjchen805.github.io)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = Not included)
+## 🌟 About the Site
+The portfolio highlights my experience in:
+- Data science workflows (data cleaning, feature engineering, model building)
+- Machine learning (supervised & unsupervised learning, deep learning)
+- Statistical analysis and visualization
+- End-to-end project pipelines
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 📂 Featured Projects
+A few of the projects you’ll find on the site:
+- **[Project 1: Pandemic Portfolio Optimization](https://github.com/jjchen805/pandemic-portfolio-optimization)** – An ML-driven portfolio optimization model analyzing the impact of COVID-19.  
+- **[Project 2: Credit Card Fraud Detection Model](https://github.com/jjchen805/credit-card-fraud-detection)** – A fraud detection model using supervised and unsupervised learning trained on credit card transaction datasets.  
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+(*More to come~*)
 
+---
 
-Credits:
+## 📧 Contact
+You can reach me at:
+- Email: [joshuachen910805@gmail.com](mailto:joshuachen910805@gmail.com)  
+- LinkedIn: [Joshua Chen](https://www.linkedin.com/in/joshua-chen805/)  
+- GitHub: [@jjchen805](https://github.com/jjchen805)  
 
-	Demo Images:
-		Unsplash (unsplash.com)
+---
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## 📜 Credits
+- **Template:** [Strata by HTML5 UP](https://html5up.net) | @ajlkn  
+- **Images:** My own visuals and datasets (unless otherwise noted)  
+- **Icons:** [Font Awesome](https://fontawesome.com)  
+- **Other tools:** jQuery, Responsive Tools  
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
